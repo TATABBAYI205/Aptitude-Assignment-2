@@ -1,0 +1,19 @@
+So, his current savings are:
+13,500 (income) - 9,000 (expenditure) = 4,500
+
+Next year, his income increased by 14%, so his new income will be:
+13,500 + 0.14 * 13,500 = 15,390
+
+His expenditure increased by 7%, so his new expenditure will be:
+9,000 + 0.07 * 9,000 = 9,630
+
+His new savings next year will be:
+15,390 (income) - 9,630 (expenditure) = 5,760
+
+The increase in his savings is therefore:
+5,760 (new savings) - 4,500 (old savings) = 1,260
+
+So, the percent increase in his savings is:
+(1,260 / 4,500) * 100% = 28%
+
+Therefore, there is a 28% increase in his savings.

@@ -1,0 +1,13 @@
+Given data:-
+
+The town has 1000 inhabitants.
+60% of them are males, so 0.60 * 1000 = 600 people are males.
+This means the remaining 1000 - 600 = 400 people are females.
+25% of all inhabitants are literate, so 0.25 * 1000 = 250 people are literate.
+The question asks what percentage of females are literate. To find this, we first need to determine how many literate people are females.
+
+We know that 250 people in total are literate. But this includes both males and females. We're told that 20% of males are literate, so 0.20 * 600 = 120 males are literate.
+
+This means that the rest of the literate people must be females. So, the number of literate females is 250 (total literate people) - 120 (literate males) = 130.
+
+So, the percentage of females that are literate is (130 literate females / 400 total females) * 100% = 32.5%.

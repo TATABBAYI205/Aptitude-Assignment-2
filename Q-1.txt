@@ -1,0 +1,25 @@
+ Given data:-
+
+First, we need to find the amount of water that the inlet pipe can fill in an hour. Since the inlet pipe fills at a rate of 4 litres per minute, it can fill 4 * 60 = 240 litres in an hour.
+
+Now, let's consider the tank capacity as X litres.
+
+The leak can empty the tank in 6 hours, which means the leak rate is X/6 litres per hour.
+
+The inlet pipe and the leak together can empty the tank in 8 hours. So, in an hour, they can fill X/8 litres. But we know that the inlet pipe alone can fill 240 litres per hour. So, the leak must drain away the rest, which is 240 - X/8 litres per hour.
+
+These two leak rates must be the same, so we equate them:
+
+X/6 = 240 - X/8
+
+Multiplying everything by 24 to clear the fractions, we get:
+
+4X = 5760 - 3X
+
+Solving for X gives:
+
+7X = 5760
+
+So, X = 5760 / 7 = 824 litres (approximately).
+
+So, the capacity of the tank is around 824 litres.

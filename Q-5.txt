@@ -1,0 +1,10 @@
+1 pump can empty the tank in 49 * 10 days (since 49 pumps can do it in 10 days).
+In hours, this becomes 49 * 10 days * 10 hours/day = 4900 pump-hours.
+
+Now, we want to know how long it will take for 70 pumps to do this job if each pump works for 7 hours a day.
+
+If 70 pumps work together, they can do 70 * 7 = 490 pump-hours of work in a day.
+
+So, to do 4900 pump-hours of work, it will take 4900 pump-hours / 490 pump-hours per day = 10 days.
+
+Therefore, with 70 pumps working 7 hours each day, the tank can be emptied in 10 days.

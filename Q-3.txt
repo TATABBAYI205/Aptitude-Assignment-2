@@ -1,0 +1,9 @@
+The percentage of candidates that passed in English or Mathematics is given by the sum of the individual passing percentages minus the percentage that passed in both.
+
+So, the percentage that passed in either English or Mathematics is:
+
+80% (English) + 85% (Mathematics) - 73% (both) = 92%.
+
+Therefore, the percentage of candidates who passed at least one subject is 92%.
+
+This means that 100% - 92% = 8% of candidates failed in both subjects.
